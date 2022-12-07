@@ -49,7 +49,6 @@
 >![BADGE](https://img.shields.io/badge/GIT-HUB-lightgrey)
 >![BADGE](https://img.shields.io/badge/VS-CODE-blue)
 >![BADGE](https://img.shields.io/badge/GIT-GIT-orange)
->![BADGE](https://img.shields.io/badge/VERCEL-VERCEL-blue)
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
