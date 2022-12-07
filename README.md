@@ -1,68 +1,95 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- Social Links -->
 
-In the project directory, you can run:
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Hashnode][hashnode-shield]][hashnode-url]
 
-### `npm start`
+![BADGE](https://img.shields.io/badge/CORE_JAVASCRIPT-PROJECT-lightgrey)
+![BADGE](https://img.shields.io/badge/LCO--INEURON-HITESH%20CHOUDHARY-lightgrey)
+![BADGE](https://img.shields.io/badge/INEURON-FULL--STACK--JAVASCRIPT--WEBDEVELOPMENT-lightgrey)
+![BADGE](https://img.shields.io/badge/HTML-CSS-lightgrey)
+![BADGE](https://img.shields.io/badge/REACTJS-lightgrey)
+>![BADGE](https://img.shields.io/badge/MADE%20WITH%20FUN%20BY-BRIJESH%20VADALIA-blue)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+> ![Gif](https://miro.medium.com/max/600/1*KUjro0G-igf6P3lvlcDrTQ.png)
+> - `React JS🤓 is today's most popular JavaScript Library for building User Interfaces, which has created by Facebook.`
+> - ` It is an efficient, flexible, and open-source JavaScript library, that was developed and is maintained by Facebook.🤠 It is capable of rendering front-ends of web apps that are simple, speedy, and scalable.`
 
-### `npm test`
+> # All About `React Keeper App` 😎
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# **Gained expertise through this project :**
 
-### `npm run build`
+- Learnt indepth of `REACTJS` 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Learned the importance of React Virtual DOM.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Learned about JSX [JSX (JavaScript XML) is a syntax extension to JavaScript used by React. JSX is basically used to write HTML tags inside JavaScript. Later, the JSX code will be translated into normal JavaScript.]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Understand how to make components[Its applications work only after using the components. And each component has its own features.]
 
-### `npm run eject`
+- Also it is one way data binding [This feature helps more in controlling the app as it uses a unidirectional data flow or one-day data binding.]
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Learned about Functional Components 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Learned useState Hook. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Learned useEffect Hook.
+>  # `Reminder : One can only Delete the notes and this notes is hardcoded but in future will try to add the feature of adding the notes dynamically.`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+># Designed With 😇
+>## TECHNOLOGIES USED 
+>![badge](https://img.shields.io/badge/HTML5-HTML5-orange)
+![BADGE](https://img.shields.io/badge/CSS3-CSS3-blue)
+![BADGE](https://img.shields.io/badge/JAVASCRIPT-JAVASCRIPT-yellow)
+![BADGE](https://img.shields.io/badge/REACTJS-REACTJS-blue)
+>## Making Use of Tools
+>![BADGE](https://img.shields.io/badge/GOOGLE-CHROME-blue)
+>![BADGE](https://img.shields.io/badge/GIT-HUB-lightgrey)
+>![BADGE](https://img.shields.io/badge/VS-CODE-blue)
+>![BADGE](https://img.shields.io/badge/GIT-GIT-orange)
+>![BADGE](https://img.shields.io/badge/VERCEL-VERCEL-blue)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+>![Screenshot](./screenshot/screenshot-1.png)
+>![Screenshot](./screenshot/screenshot-2.png)
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+>## For any query you can reach out at brijeshvadaliya1@gmail.com I am happy to help 😎
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+# HAPPY LEARNING 🤩
+>![image](https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif)
+>## Wake Up, Drink Coffee and Keep Coding until you achieve your Goals
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+<!-- Linkedin -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
+[linkedin-url]: https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202/
+
+<!-- Instagram -->
+
+[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/brijesh_vadaliya_8128/
+
+
+<!-- Hashnode -->
+
+[hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
+[hashnode-url]: https://brijeshvadaliya8128.hashnode.dev/
+
+
+
+
